@@ -1,1 +1,1 @@
-"# KiraTahmini" 
+# KiraTahmini
